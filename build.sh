@@ -3,11 +3,11 @@
 ### Define variables that we need for this script
 ### These are the chapters are are currently done. Add chapters here.
 allDocuments=('blank' 'index' '1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11'
-'12' '13' '14' 'A' 'B' 'C' 'D' 'E' 'F' 'G' 'H' 'I')
+'12' '13' '14' 'A' 'B' 'C' 'D' 'E' 'F' 'G' 'H' 'I' 'J')
 allChapters=('1' '2' '3' '4' '5' '6' '7' '8' '9' '10' '11'
-'12' '13' '14' 'A' 'B' 'C' 'D' 'E' 'F' 'G' 'H' 'I')
+'12' '13' '14' 'A' 'B' 'C' 'D' 'E' 'F' 'G' 'H' 'I' 'J')
 misc=('blank' 'index')
-chaptersWithFolders=('2' '3' '4' '5' '6' '7' '9' '12' '14' 'B' 'C' 'D' 'F' 'G' 'H')
+chaptersWithFolders=('2' '3' '4' '5' '6' '7' '9' '12' '14' 'B' 'C' 'D' 'F' 'G' 'H' 'J')
 chaptersWithOutFolders=('1' '8' '10' '11' '13' 'A' 'E' 'I')
 
 foundDirs=()

@@ -124,6 +124,7 @@ Appendices
  - [Appendix G - Win32 Installation and Setup](https://github.com/chukong/programmers-guide/blob/v3.6/chapters/G.md)
  - [Appendix H - WP8 Installation and Setup](https://github.com/chukong/programmers-guide/blob/v3.6/chapters/H.md)
  - [Appendix I - Command-Line Integration Project](https://github.com/chukong/programmers-guide/blob/v3.6/chapters/I.md)
+ - [Appendix J - Release Note](https://github.com/chukong/programmers-guide/blob/v3.6/chapters/J.md)
 
 Chapters
 --------
